@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "J-Heetae.github.io"
+title: "셰프정 Tech"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "코드를 요리하는 개발자"
@@ -105,28 +105,19 @@ analytics:
 author:
   name: "코드를 요리하는 개발자"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "제대로 배우고 싶은 웹개발자"
+  bio: "제대로 배우고 싶은 웹개발자의 블로그"
   location: "Somewhere"
   email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:th1563@email.com"
+    - label: "Notion"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.notion.so/1cab75a10fba474c8bc41fdba90489ff"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "hhttps://github.com/J-Heetae"
 
 # Site Footer
 footer:
@@ -137,9 +128,12 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
+    - label: "Notion"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.notion.so/1cab75a10fba474c8bc41fdba90489ff"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "hhttps://github.com/J-Heetae"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
