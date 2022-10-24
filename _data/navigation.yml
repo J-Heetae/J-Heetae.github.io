@@ -1,13 +1,9 @@
 # main links
 main:
-  - title: "블로그 방문하기"
+  - title: "Home"
     url: https://j-heetae.github.io/
-  - title: "About"
-    url: /about/
   - title: "Categories"
     url: /categories/
-  - title: "Project"
-    url: /categories/project/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
